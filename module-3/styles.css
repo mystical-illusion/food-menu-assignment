@@ -1,0 +1,47 @@
+*{
+    padding: 0px;
+    margin: 0px;
+
+		
+
+}
+
+#header-nav{
+  background-color:gray;  
+  border:2px solid black; 
+  border-radius: 0;
+  height:100px;
+
+  width: 100%;
+}
+.navbar-brand{
+  margin-top: 10px;
+  padding-top:10px;
+}
+
+    
+
+.text-center{
+
+    font-family: Arial, Helvetica, sans-serif;
+     font-size: x-large;
+     font-weight: bolder;
+      
+  
+  }
+.col-md-6{
+    border: 1px solid black;
+    width: 100%;
+    background-color: gray;
+    padding: 16px;
+    margin:auto;
+   
+    height: autopx;
+}
+.heading{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+}
+
+
